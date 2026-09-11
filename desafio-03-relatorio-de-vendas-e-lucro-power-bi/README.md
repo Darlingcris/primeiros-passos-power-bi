@@ -22,13 +22,13 @@ Criar um relatório interativo e estruturado para análise de vendas e lucros, u
 
 Apresenta indicadores gerais de vendas, evolução temporal e análises por produto, segmento e país.
 
-![Relatório de Vendas](pagina-01-relatorio-vendas.png)
+![Relatório de Vendas](relatorio-vendas.png)
 
 ### Relatório de Lucro Detalhado
 
 Apresenta a análise de lucro por produto, segmento, país, ano e trimestre.
 
-![Relatório de Lucro](pagina-02-relatorio-lucro.png)
+![Relatório de Lucro](relatorio-lucro.png)
 
 ## Arquivo do projeto
 
